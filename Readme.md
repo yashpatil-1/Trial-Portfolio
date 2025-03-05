@@ -9,7 +9,7 @@ Welcome to my **Portfolio Website**! This site serves as a professional showcase
 - Fully **responsive design** for a seamless experience on all devices.
 
 ## 🌐 Live Demo
-[https://yashpatil-1.github.io/Trial-Portfolio/](#) *(Update with deployed link if available)*
+[https://yashpatil-1.github.io/Trial-Portfolio/](#) 
 
 ---
 
